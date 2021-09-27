@@ -108,7 +108,6 @@ int main()
             c = sum(a, b);
             strcpy(a, b);
             strcpy(b, c);
-            c = sum(a, b);
         }
     }
     printf("Fibonacci value :\n");
